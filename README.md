@@ -19,7 +19,7 @@ This dashboard provides a detailed analysis of bank customer churn with the foll
 Here are some screenshots of the interactive dashboard:
 
 ### Page 1 - Customer Overview
-![Customer Overview](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/screenshots/image_5f30e5.png)
+![Customer Overview](https://github.com/Hariiiharan/Bank-Churn-Analysis/blob/main/screenshots/Screenshot%202025-08-07%20015539.png)
 
 ### Page 2 - Detailed Analysis
-![Detailed Analysis](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/screenshots/image_5f3487.png)
+![Detailed Analysis](https://github.com/Hariiiharan/Bank-Churn-Analysis/blob/main/screenshots/Screenshot%202025-08-07%20015552.png)
