@@ -12,3 +12,14 @@ This dashboard provides a detailed analysis of bank customer churn with the foll
     - **Financial Behavior:** Examine the impact of credit score and credit card status on churn.
 - **Trend Analysis:** Visualize trends of active and exited customers over time (from 2016 to 2019) to identify patterns.
 - **Interactive Filters:** Easily drill down into the data using interactive slicers for `Geography`, `Year`, `Month`, and `Quarter`.
+
+
+## Dashboard Screenshots
+
+Here are some screenshots of the interactive dashboard:
+
+### Page 1 - Customer Overview
+![Customer Overview](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/screenshots/image_5f30e5.png)
+
+### Page 2 - Detailed Analysis
+![Detailed Analysis](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/screenshots/image_5f3487.png)
